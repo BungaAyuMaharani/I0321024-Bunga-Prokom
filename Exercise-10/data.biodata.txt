@@ -1,0 +1,3 @@
+Nama: Bunga
+Umur: 18
+Alamat: Solo
